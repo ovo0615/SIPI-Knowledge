@@ -1,4 +1,4 @@
-# 試閱十二：系統級 SI／PI sign-off
+# 12：系統級 SI／PI sign-off
 
 ![系統級 SI／PI sign-off 流程示意圖](./插圖_12_系統級SignOff.png)
 

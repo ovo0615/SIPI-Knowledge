@@ -1,4 +1,4 @@
-# 試閱十：SerDes、Equalization 與 IBIS-AMI
+# 10：SerDes、Equalization 與 IBIS-AMI
 
 ![SerDes 通道損耗與 Equalization 示意圖](./插圖_10_SerDes與Equalization.png)
 

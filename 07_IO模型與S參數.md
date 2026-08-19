@@ -1,4 +1,4 @@
-# 試閱七：I/O Model、IBIS 與 S 參數
+# 07：I/O Model、IBIS 與 S 參數
 
 ![I/O buffer 與 S 參數分析示意圖](./插圖_07_IO模型與S參數.png)
 

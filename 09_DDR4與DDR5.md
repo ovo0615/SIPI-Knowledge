@@ -1,4 +1,4 @@
-# 試閱九：DDR4／DDR5 記憶體介面
+# 09：DDR4／DDR5 記憶體介面
 
 ![DDR 記憶體通道與 timing margin 示意圖](./插圖_09_DDR通道.png)
 
