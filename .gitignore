@@ -1,0 +1,5 @@
+# AEDT 暫存資料與鎖定檔不納入版本控制。
+*.aedb/
+*.aedtresults/
+*.aedt.lock
+*.pyaedt
