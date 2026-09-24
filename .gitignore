@@ -3,3 +3,7 @@
 *.aedtresults/
 *.aedt.lock
 *.pyaedt
+# Ansys 專案檔放在路徑全為英數字的工作目錄，不納入版本控制。
+*.aedt
+*.aedb.bak/
+*.aedb.bak
